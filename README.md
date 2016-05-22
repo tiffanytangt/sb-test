@@ -1,4 +1,4 @@
 # StackButton
 
 a [Sails](http://sailsjs.org) application
-testing commit on sb-test 6
+testing commit on sb-test 7
